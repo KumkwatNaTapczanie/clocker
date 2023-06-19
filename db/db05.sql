@@ -1,0 +1,1 @@
+ALTER TABLE `Task` ADD `progress` VARCHAR( 16 ) CHARACTER SET utf32 COLLATE utf32_general_ci NOT NULL DEFAULT 'inactive';

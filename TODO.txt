@@ -1,0 +1,42 @@
+[done] 1. Logowanie
+	a. złe hasło
+	b. nieistniejący użytkownik
+	c. zrobić żeby były gwiazdki zamiast hasła
+	d. ewentualnie skrót z hasła w bazie
+
+[done] 2. Rejestracja
+	a. walidacja: niepuste pola, długość hasła, unikalny email
+	b. obsługa błędów
+	c. zapis do bazy 
+
+3. CSS
+	[done] a. normalny
+	b. responsywny
+
+4. Śledzenie taska
+	a. klikanie "start" i "stop"
+	b. edytowalne pola
+	c. lista projektów do wyboru
+	d. wysyłanie wyników do bazy
+
+5. Dodawanie taska
+	a. lista projektów do wyboru
+	b. edytowalne pola
+	c. wysyłanie wyników do bazy
+
+6. Dodawanie klientów
+	a. edytowalne pola
+	b. wysyłanie wyników do bazy
+
+7. Dodawanie projektów
+	a. lista klientów do wyboru
+	b. edytowalne pola
+	c. wysyłanie wyników do bazy
+
+[done] 8. Panel admina
+	a. edytowalne pola
+	b. wysyłanie wyników do bazy
+
+9. Filtrowanie wszystkiego co się da
+
+10. Raporty
